@@ -1,0 +1,852 @@
+{
+    "chikkamagaluru": [
+      {
+        "name": "The Grand Krishna Luxury Hotel",
+        "location": "RG Road",
+        "rating": 4.3,
+        "price": "₹1,800",
+        "type": "Hotel",
+        "image": "https://www.thegrandkrishna.com/images/3%20(1).jpg"
+      },
+      {
+        "name": "Rest Inn",
+        "location": "Indira Gandhi Road",
+        "rating": 3.3,
+        "price": "₹1,450",
+        "type": "Hotel",
+        "image": "https://ak-d.tripcdn.com/images/0226y12000ark9wgkCE24_R_960_660_R5_D.jpg"
+      },
+      {
+        "name": "Gateway Chikmagalur - IHCL SeleQtions",
+        "location": "KM Road",
+        "rating": 4.5,
+        "price": "₹14,950",
+        "type": "Hotel",
+        "image": "https://www.seleqtionshotels.com/content/dam/gateway/hotels/Jyothi-nagar,Chikmagalur/images/gallery/Chikmagalur_WelomeforWeb_3x2-02.jpg"
+      },
+      {
+        "name": "The Inchara Homestay | Rooms & Caretaker",
+        "location": "Arasinaguppe",
+        "rating": 4.0,
+        "price": "₹4,480",
+        "type": "Villa",
+        "image": "https://manage.gochikmagalur.com/uploads/HomeStay/1649419613_9c12e84b2e3ffb6b7ae4.webp"
+      },
+      {
+        "name": "I Palace",
+        "location": "KM Road",
+        "rating": 4.2,
+        "price": "₹1,299",
+        "type": "Hotel",
+        "image": "https://cdn1.goibibo.com/voy_ing/t_srp/3c8a548eae9911e9a1240242ac110002.jpeg?im=Resize=(280,188)"
+      },
+      {
+        "name": "Robusta Inn",
+        "location": "Pension Mohalla",
+        "rating": 4.3,
+        "price": "₹3,299",
+        "type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/236533546.jpg?k=eb57094becb48b60cd3c78c7b06c1619fe654ce97caac13b7f2dc33d89a34b82&o=&hp=1"
+      },
+      {
+        "name": "F J Comforts Inn",
+        "location": "RG Road",
+        "rating": 3.7,
+        "price": "₹1,500",
+        "type": "Guest House",
+        "image": "https://content.jdmagicbox.com/comp/chikmagalur/h2/9999p8262.8262.130607152443.y5h2/catalogue/f-j-comforts-inn-vijayapuram-chikmagalur-chikmagalur-lodging-services-tne129lz60.jpg?clr="
+      },
+      {
+        "name": "Blue Bell Homestay | Rooms & Caretaker",
+        "location": "Chikkolale",
+        "rating": 4.3,
+        "price": "₹3,200",
+        "type": "Homestay",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/268125111.jpg?k=97409e32a5a6f532fcdc0fd1913b31d06af18d068e9a739ce230c98edcc09d1e&o=&hp=1"
+      },
+      {
+        "name": "Kalyan Cool Homestay - Chikmagalur",
+        "location": "Bannur",
+        "rating": 4.7,
+        "price": "₹3,013",
+        "type": "Homestay",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/194184743.jpg?k=167ec5aefa9bd4d22e861d5d43e7f59c9d2619cc91f3b3d417a545ca4c95f107&o=&hp=1"
+      }  
+    ],
+
+    "coimbatore":[
+    {
+      "name": "Vivanta Coimbatore",
+      "location": "Gopalapuram | 9.7 km from Coimbatore International Airport",
+      "rating": "Excellent 4.4 (2172 Ratings)",
+      "price_per_night": "₹ 7,000",
+      "type": "Hotel",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469577687.jpg?k=72c0fd6d06e99c7380a120478b489047954ee3aa720bedebc6287329337ba079&o=&hp=1",
+      "coupon_code": "N/A"
+    },
+    {
+      "name": "Fairfield by Marriott Coimbatore",
+      "location": "Near Coimbatore Airport | 1.1 km from Coimbatore International Airport",
+      "rating": "Excellent 4.4 (964 Ratings)",
+      "price_per_night": "₹ 6,599",
+      "type": "Hotel",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461646797.jpg?k=f1c51a61dfab07ee43321eecb4e21f32a221249c268874a1ee4c7b14fb795f73&o=&hp=1",
+      "coupon_code": "N/A"
+    },
+    {
+      "name": "RJ Home Bridge | Rooms in a Homestay",
+      "location": "Vadavalli",
+      "rating": "Very Good 4.2 (30 Ratings)",
+      "price_per_night": "₹ 2,000",
+      "type": "Homestay",
+      "image": "https://img.hwnstatic.com/500/350/80/false/hS6xM66VW7aPPkNHCWPi.PFFPwqfnBUd:I7pTXuEkLetAsoFkBzVn8ylNy05cd1rF1rbGG2kceKieGoid9eQntz.Ga0uV:oHFHBvqfSDJCBLfgMi5BVE55UtO1fuSPIFUKNOWwigWMD6amyfmgsMcTgfFpdIhiaDbxn01PnCIQGxWDnjP88n:r:12HJ2",
+      "coupon_code": "Exclusive offer on Canara Bank Credit Cards. Get INR 379 off"
+    },
+    {
+      "name": "RADISSON BLU COIMBATORE",
+      "location": "Peelamedu | 6.5 km from Coimbatore International Airport",
+      "rating": "Excellent 4.4 (1469 Ratings)",
+      "price_per_night": "₹ 9,673",
+      "type": "Hotel",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max500/232843094.jpg?k=40ddc9f134847cc06acdef97bbd5a3d336e9d1cd02fe13c51513a04f97bb13b7&o=&hp=1",
+      "coupon_code": "N/A"
+    },
+    {
+      "name": "The Residency",
+      "location": "P N Palayam | 8.3 km from Coimbatore International Airport",
+      "rating": "Excellent 4.4 (1320 Ratings)",
+      "price_per_night": "₹ 8,499",
+      "type": "Hotel",
+      "image": "https://www.kayak.co.in/rimg/himg/df/bc/6f/expediav2-163656-cc49c9-987456.jpg?width=1366&height=768&crop=true",
+      "coupon_code": "Exclusive offer on Axis Bank Credit Cards. Get INR 1019 off"
+    },
+    {
+      "name": "Le Meridien Coimbatore",
+      "location": "Neelambur | 19.6 km from city centre | 8.4 km from Coimbatore International Airport",
+      "rating": "Excellent 4.3 (1478 Ratings)",
+      "price_per_night": "₹ 6,299",
+      "type": "Hotel",
+      "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/flyfish/raw/NH75211251141040/QS1042/QS1042-Q1/1679368787360.jpeg",
+      "coupon_code": "N/A"
+    },
+    {
+      "name": "Hash Six Hotels",
+      "location": "Saibaba Colony",
+      "rating": "Very Good 4.1 (2126 Ratings)",
+      "price_per_night": "₹ 4,500",
+      "type": "Hotel",
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/180716421.jpg?k=0e2d5c3ad350d762ec72c225065694c4a7e36e201e930a2fae3d1f519263ed56&o=&hp=1",
+      "coupon_code": "N/A"
+    },
+    {
+      "name": "Lemon Tree Hotel Coimbatore",
+      "location": "Kalapatti | 6.5 km from Coimbatore International Airport",
+      "rating": "Very Good 4.2 (2237 Ratings)",
+      "price_per_night": "₹ 10,104",
+      "type": "Hotel",
+      "image": "https://www.lemontreehotels.com/uploads/hotelslider/29_05_2023_09_05_12Facade.jpg",
+      "coupon_code": "Exclusive offer on Axis Bank Credit Cards. Get INR 971 off"
+    },
+    {
+      "name": "Zibe - Coimbatore by GRT Hotels",
+      "location": "Peelamedu | 5.8 km from Coimbatore International Airport",
+      "rating": "Very Good 4.2 (1221 Ratings)",
+      "price_per_night": "₹ 4,900",
+      "type": "Hotel",
+      "image": "https://ak-d.tripcdn.com/images/220h0u000000jcmchB187_R_960_660_R5_D.jpg",
+      "coupon_code": "Get INR 218 Cashback to Card on payments via credit/debit cards"
+    }
+    
+   ],
+
+    "kanchi": [
+      {
+        "name": "Nitheesh Residency",
+        "location": "Ennaikaran",
+        "rating": "Very Good 4.2 (810 Ratings)",
+        "price": "₹ 2,150",
+        "offer": "Exclusive offer on Canara Bank Credit Cards. Get INR 330 off",
+        "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/281819432.jpg?k=64f3b0ab720dc9b6e7715c40070234ce7689fac2852aa058f84a3d993893e2a0&o=&hp=1"
+      },
+      {
+        "name": "Sree Sakthi Residency",
+        "location": "Periya",
+        "rating": "Very Good 4.2 (318 Ratings)",
+        "price": "₹ 2,200",
+        "offer": "Exclusive offer on Canara Bank Credit Cards. Get INR 330 off",
+        "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/458447035.jpg?k=0e65bbfa3ae517e15d896b4ed2b8638b3914e351471f86db94b2cd227c2d3b73&o=&hp=1"
+      },
+      {
+        "name": "Pine Tree",
+        "location": "Ennaikaran",
+        "rating": "Very Good 3.9 (275 Ratings)",
+        "price": "₹ 2,500",
+        "offer": "Exclusive offer on Canara Bank Credit Cards. Get INR 572 off",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3WzhuBYiisnP-GJ_Gl84DXp2ZIckX7s9BdA&usqp=CAU"
+      },
+      {
+        "name": "Hotel Adhi Residency - Cleanliness & Friendliness Room VL Varadaraja Temple",
+        "location": "Nethaji Nagar",
+        "rating": "Very Good 4.1 (200 Ratings)",
+        "price": "₹ 2,200",
+        "offer": "Exclusive offer on Canara Bank Credit Cards. Get INR 330 off",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6UASgYaYwSxDtCbWRwiZqdEixSxOa8vl7dNokTQccQHMuXiytTRaep3VIQuAkW4MOHEc&usqp=CAU"
+      },
+      {
+        "name": "Hotel Aalayam Kancheepuram Yatri Nivas",
+        "location": "Periya",
+        "rating": "Very Good 4.1 (31 Ratings)",
+        "price": "₹ 1,250",
+        "offer": "Exclusive offer on Canara Bank Credit Cards. Get INR 187 off",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOMZBFTnRRAUvH4mI2a2les454IDGl2bRdhw&usqp=CAU"
+      },
+      {
+        "name": "The First Light Inn",
+        "location": "Meenakshi Nagar",
+        "rating": "Very Good 3.9 (22 Ratings)",
+        "price": "₹ 2,800",
+        "offer": "Exclusive offer on Canara Bank Credit Cards. Get INR 411 off",
+        "img": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202012281421263800-a9a736124b3311eb878f0242ac110004.jpg"
+      },
+      {
+        "name": "Babukala Regency",
+        "location": "Kanchipuram",
+        "rating": "Excellent 4.4 (40 Ratings)",
+        "price": "₹ 2,100",
+        "offer": "Exclusive offer on Canara Bank Credit Cards. Get INR 315 off",
+        "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/186369174.jpg?k=6fa9c9716f103ed2cc0c66a7bb780f2b576c166145f8f0ac7e396bf22647c6d5&o=&hp=1"
+      },
+      {
+        "name": "Sai Homestay Kanchipuram",
+        "location": "Kanchipuram",
+        "rating": "Excellent 5.0 (5 Ratings)",
+        "price": "₹ 1,980",
+        "offer": "Exclusive offer on Canara Bank Credit Cards. Get INR 330 off",
+        "img": "https://q-xx.bstatic.com/xdata/images/hotel/max1200/401956734.jpg?k=a04c8e3c3b342a10e05f0b9e5fc15fd6a4cacf43435fde001cb4c5442d4c9f4f&o="
+      },
+      {
+        "name": "LR Residency",
+        "location": "Nethaji Nagar",
+        "rating": "Excellent 4.6 (29 Ratings)",
+        "price": "₹ 2,100",
+        "offer": "Exclusive offer on Canara Bank Credit Cards. Get INR 330 off",
+        "img": "https://content.jdmagicbox.com/comp/kanchipuram/d1/9999pxx44.xx44.150409164645.e2d1/catalogue/pine-tree-kanchipuram-ho-kanchipuram-hotels-rs-1001-to-rs-2000--6vbadqh.jpg"
+      }
+    ],
+    "madurai": [
+        {
+          "name": "Hotel President",
+          "location": "Madurai Main",
+          "rating": "Very Good 3.6 (926 Ratings)",
+          "price": "₹ 8,600",
+          "type": "100% Money Back Guarantee on Clean rooms with TV, AC & Free Wi-Fi",
+          "img": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202011031455199946-47f6d6c44a8f11eb818e0242ac110002.jpg"
+        },
+        {
+          "name": "Moskva Hotel",
+          "location": "Madurai Main",
+          "rating": "Very Good 3.7 (574 Ratings)",
+          "price": "₹ 2,300",
+          "type": "Exclusive offer on Canara Bank Credit Cards. Get INR 296 off",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hotel_Moskva_%28Belgrade%29.jpg/250px-Hotel_Moskva_%28Belgrade%29.jpg"
+        },
+        {
+          "name": "Hotel M.R.International",
+          "location": "Madurai Main",
+          "rating": "Very Good 3.6 (72 Ratings)",
+          "price": "₹ 2,600",
+          "type": "Exclusive offer on Canara Bank Credit Cards. Get INR 351 off",
+          "img": "https://az712897.vo.msecnd.net/images/full/9be8d81b-7ec3-4f8e-9fb1-6e4ffb9282dc.jpeg"
+        },
+        {
+          "name": "HOTEL RADHAKRISHNA",
+          "location": "Madurai Main",
+          "rating": "Good 3.2 (40 Ratings)",
+          "price": "₹ 1,400",
+          "type": "no discount sale",
+          "img": "https://cdn0.weddingwire.in/vendor/5321/3_2/960/jpg/weddingvenues-radha-krishna-banquet-hall-eventspace-1_15_355321-166997107854890.jpeg"
+        },
+        {
+          "name": "OYO Flagship Hotel Kathir Palace",
+          "location": "Madurai Main",
+          "rating": "Average 2.3 (21 Ratings)",
+          "price": "₹ 2,374",
+          "type": "Exclusive offer on Canara Bank Credit Cards. Get INR 179 off",
+          "img": "https://images.oyoroomscdn.com/uploads/hotel_image/206789/iaihalgwlasu.jpg"
+        },
+        {
+          "name": "Hotel Nambi",
+          "location": "Madurai Main",
+          "rating": "Good 3.4 (257 Ratings)",
+          "price": "₹ 1,800",
+          "type": "Exclusive offer on Canara Bank Credit Cards. Get INR 262 off",
+          "img": "https://ik.imgkit.net/3vlqs5axxjf/external/ik-seo/https://www.cfmedia.vfmleonardo.com/imageRepo/7/0/104/447/23/47783w_O/JC-Residency.jpg?tr=w-240%2Ch-308%2Cfo-auto"
+        },
+        {
+          "name": "SRI THIRUPATHY RESIDENCY",
+          "location": "Madurai Main",
+          "rating": "Average 2.5 (39 Ratings)",
+          "price": "₹ 1,100",
+          "type": "",
+          "img": "https://lh3.googleusercontent.com/p/AF1QipMUHZynOosCdolaH-q7I6kfVqUjwqyTRwMTp1C1=w768-h768-n-o-v1"
+        },
+        {
+          "name": "YMCA GUEST HOUSE",
+          "location": "Madurai Main",
+          "rating": "Good 3.0 (4 Ratings)",
+          "price": "₹ 2,400",
+          "type": "Exclusive offer on Canara Bank Credit Cards. Get INR 259 off",
+          "img": "https://content3.jdmagicbox.com/comp/def_content/lodging_services/default-lodging-services-9.jpg"
+        },
+        {
+          "name": "M3 Boutique Hotel",
+          "location": "Shenoy Nagar",
+          "rating": "Good 3.1 (1204 Ratings)",
+          "price": "₹ 2,700",
+          "type": "100% Money Back Guarantee on Clean rooms with TV, AC & Free Wi-Fi",
+          "img": "https://pix8.agoda.net/hotelImages/816/816552/816552_17072419340054645018.jpg?ca=6&ce=1&s=1024x768"
+        }
+      ],
+      "madikeri": [
+          {
+            "name": "Itsy By Treebo - Regalia Grand",
+            "location": "Madikeri",
+            "rating": "3.7",
+            "price": "₹ 4,157",
+            "type": "Hotel",
+            "image": "https://cdn1.goibibo.com/voy_ing/t_g/23d49872504a11edbaa70a58a9feac02.jpg",
+            "coupon_code": "Exclusive offer on Canara Bank Credit Cards. Get INR 236 off"
+          },
+          {
+            "name": "PRASHANTH RESIDENCY",
+            "location": "Madikeri",
+            "rating": "4.5",
+            "price": "₹ 10,500",
+            "type": "Hotel",
+            "image": "https://pix6.agoda.net/hotelImages/39055853/0/866283dfdf19346cb68c5848eb459a77.jpg",
+            "coupon_code": "Exclusive offer on Axis Bank Credit Cards. Get INR 1417 off"
+          },
+          {
+            "name": "Madikeri Heritage",
+            "location": "Madikeri",
+            "rating": "3.8",
+            "price": "₹ 3,300",
+            "type": "Hotel",
+            "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/181960825.jpg?k=e74bd575265e5e086dfc04f7a49a76ef59777fe9ffde1da9f0f8512909468691&o=&hp=1"
+          },
+          {
+            "name": "Hotel Le Coorg",
+            "location": "Madikeri",
+            "rating": "4.0",
+            "price": "₹ 4,000",
+            "type": "Hotel",
+            "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/279843909.jpg?k=eabc6f156d80897c2db17b3a87e59be8335e9574a926b075bb2b3e1f0d6ccf40&o=&hp=1"
+          },
+          {
+            "name": "MySpace Express Oleander Service Apartments",
+            "location": "Madikeri",
+            "rating": "4.2",
+            "price": "₹ 7,500",
+            "type": "Hotel",
+            "image": "https://cf.bstatic.com/xdata/images/hotel/max500/296334993.jpg?k=ef7b7de4f142e0fa1ba1d4ca8e305d5b9bdaeb74981921bec0d67e259a7b11a7&o=&hp=1"
+          },
+          {
+            "name": "Ayla Homestay",
+            "location": "Madikeri",
+            "rating": "4.7",
+            "price": "₹ 4,400",
+            "type": "Homestay",
+            "image": "https://www.kayak.co.in/rimg/himg/f9/44/ca/ice-162609748-63177934_3XL-972682.jpg?width=1366&height=768&crop=true"
+          },
+          {
+            "name": "Vintage Stay",
+            "location": "Madikeri",
+            "rating": "4.0",
+            "price": "₹ 2,600",
+            "type": "Homestay",
+            "image": "https://imgcld.yatra.com/ytimages/image/upload/t_seo_Hotel_w_930_h_550_c_fill_g_auto_q_40_f_jpg/v1581583546/Hotel/00177640/DSC_0395_(2)_AE3aps.jpg",
+            "coupon_code": "Exclusive offer on Canara Bank Credit Cards. Get INR 292 off"
+          },
+          {
+            "name": "Coorg City View Homestay",
+            "location": "Madikeri",
+            "rating": "4.7",
+            "price": "₹ 2,000",
+            "type": "Homestay",
+            "image": "https://gos3.ibcdn.com/b572783a550311e9a62c0242ac110004.jpg",
+            "coupon_code": "Exclusive offer on Canara Bank Credit Cards. Get INR 291 off"
+          },
+          {
+            "name": "IMARAT HOTEL",
+            "location": "Madikeri",
+            "rating": "3.2",
+            "price": "₹ 2,500",
+            "type": "Hotel",
+            "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/flyfish/raw/NH7310541858534/QS1042/QS1042-Q1/1575269330018.jpeg"
+          }
+        ],
+        "mysore":[
+          {
+            "hotelName": "Ginger Mysore",
+            "location": "Mysore",
+            "features": ["Couple Friendly", "Book with ₹0 Payment", "Free Cancellation till 24 hrs before check in"],
+            "rating": "Very Good",
+            "averageRating": 3.7,
+            "totalRatings": 4085,
+            "price": 2159,
+            "taxesAndFees": 259,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlTTjV9OIgYLYYOF8JcBM2ynrZffNIKf38rQ&usqp=CAU" 
+        
+          },
+          {
+            "hotelName": "The Serai Kabini",
+            "location": "Kabini | 0.0 km from Mysore",
+            "type": "Resort",
+            "features": ["Couple Friendly", "Book with ₹0 Payment", "Free Cancellation", "Breakfast Included"],
+            "rating": "Excellent",
+            "averageRating": 4.3,
+            "totalRatings": 523,
+            "price": 18000,
+            "taxesAndFees": 3240,
+            "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/34560745.jpg?k=cad15e609213700c771c79b6680375b405f16f319128d338c6ee39d7b2151279&o=&hp=1" 
+        
+          },
+          {
+            "hotelName": "Hotel President",
+            "location": "Mysore",
+            "features": ["Free Cancellation till check-in", "Book with ₹0 Payment"],
+            "rating": "Very Good",
+            "averageRating": 3.7,
+            "totalRatings": 786,
+            "price": 2539,
+            "taxesAndFees": 570,
+            "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/50551521.jpg?k=4ae58f020646e6e31fa756ac5ec3f2fa3560c7deeffb0aba25752d2c85baf700&o=&hp=1" 
+        
+          },
+          {
+            "hotelName": "Hotel Sandesh The Prince",
+            "location": "Mysore",
+            "features": ["Couple Friendly", "Book with ₹0 Payment", "Free Cancellation till 24 hrs before check-in"],
+            "rating": "Very Good",
+            "averageRating": 4.1,
+            "totalRatings": 2520,
+            "price": 5573,
+            "taxesAndFees": 1197,
+            "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/flyfish/raw/NH73133204590390/QS1042/QS1042-Q1/IMG_20220421_190017.jpg" 
+        
+        
+        
+          },
+          {
+            "hotelName": "Royal Orchid Metropole",
+            "location": "Mysore",
+            "features": ["Couple Friendly", "Book with ₹0 Payment", "Free Cancellation till 24 hrs before check-in"],
+            "rating": "Very Good",
+            "averageRating": 4.2,
+            "totalRatings": 676,
+            "price": 17424,
+            "taxesAndFees": 3136,
+            "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/flyfish/raw/NH74059237223310/QS1042/QS1042-Q1/1672055037736.jpeg" 
+        
+          },
+          {
+            "hotelName": "The Viceroy",
+            "location": "Mysore",
+            "features": ["Couple Friendly", "Free Cancellation till check-in"],
+            "rating": "Average",
+            "averageRating": 2.6,
+            "totalRatings": 140,
+            "price": 1137,
+            "taxesAndFees": 299,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpy9T8QPcKkHVWwTnyeUU-sLhVGpg5tfBYJQ&usqp=CAU" 
+        
+          },
+          {
+            "hotelName": "Pai Vista Hotel",
+            "location": "Mysore",
+            "features": ["Book with ₹0 Payment", "Free Cancellation till 24 hrs before check-in", "Breakfast Included"],
+            "rating": "Excellent",
+            "averageRating": 4.3,
+            "totalRatings": 1918,
+            "price": 6000,
+            "taxesAndFees": 600,
+            "image": "https://foto.hrsstatic.com/fotos/0/3/1280/1280/80/FFFFFF/http%3A%2F%2Ffoto-origin.hrsstatic.com%2Ffoto%2F6%2F4%2F2%2F0%2F%2Fteaser_642089.jpg/kc0DDthlGPGqduNwYcuI3w%3D%3D/175%2C175/6/Pai_Vista-Mysore-Exterior_view-642089.jpg" 
+        
+          },
+          {
+            "hotelName": "The Green Hotel",
+            "location": "Mysore",
+            "features": ["Couple Friendly", "Free Cancellation till check-in"],
+            "rating": "Good",
+            "averageRating": 3.4,
+            "totalRatings": 88,
+            "price": 2540,
+            "taxesAndFees": 735,
+            "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/38147174.jpg?k=222740032f07b05acd9cc722b12d571b8773842562b8875a648375b65ccc7cdd&o=&hp=1" 
+        
+          },
+          {
+            "hotelName": "Hotel Siddharta",
+            "location": "Mysore",
+            "features": ["Free Cancellation till check-in", "Book with ₹0 Payment"],
+            "rating": "Very Good",
+            "averageRating": 3.6,
+            "totalRatings": 1018,
+            "price": 1958,
+            "taxesAndFees": 567,
+            "image": "https://images.oyoroomscdn.com/uploads/hotel_image/44816/c64d63e2fdc693bc.jpg" 
+        
+        
+          }
+        ],
+        "padmanaba": [
+            {
+              "name": "Samanvay Boutique Hotel",
+              "location": "Udupi",
+              "rating": "Top Rated",
+              "price": 10692,
+              "type": "Suite Room",
+              "coupon_code": "Fully refundable",
+              "img": "https://q-xx.bstatic.com/xdata/images/hotel/max1200/86421613.jpg?k=fbd6afcbe0595cb7f6831715f86c49a31e8dd6579d65ee79a5f2cf40bfc23ab6&o="
+            },
+            {
+              "name": "Legado Hotel and Convention Centre",
+              "location": "Udupi",
+              "rating": "Top Rated",
+              "price": 5576,
+              "type": "Speciality Hotel",
+              "coupon_code": "Fully refundable",
+              "img": "https://lh5.googleusercontent.com/p/AF1QipMWKMIbiFCzIv7YVWFaErerlZXHiZXAQO4Jb6RG=s296-w296-h168-n-k-no-v1"
+            },
+            {
+              "name": "Hotel Sharada International",
+              "location": "Udupi",
+              "rating": "Small Hotel",
+              "price": 3594,
+              "type": "",
+              "coupon_code": "Fully refundable",
+              "img": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_600,q_auto,w_600//hotelier-images/17/db/f2c32b657945105c4213e9d491ef2ecfa2f0fc84423128778d99c32eab4b.jpeg"
+            },
+            {
+              "name": "Rukmini Residency",
+              "location": "Udupi",
+              "rating": "Small Hotel",
+              "price": 1819,
+              "type": "",
+              "coupon_code": "Fully refundable",
+              "img": "https://www.templedairy.in/wp-content/uploads/2017/06/Rukmini-Residency-Hotel-Udupi.jpg"
+            },
+            {
+              "name": "Hotel Janardana",
+              "location": "Udupi",
+              "rating": "Lodge",
+              "price": 2632,
+              "type": "",
+              "coupon_code": "Fully refundable",
+              "img": "https://gos3.ibcdn.com/4df29d1ef7e411e9877a0242ac110004.jpg"
+            },
+            {
+              "name": "Chithara Comforts",
+              "location": "Udupi",
+              "rating": "Speciality Hotel",
+              "price": 6579,
+              "type": "",
+              "coupon_code": "Fully refundable",
+              "img": "https://images.trvl-media.com/lodging/22000000/21200000/21192900/21192863/1ed63cf6.jpg?impolicy=fcrop&w=455&h=235&p=1&q=medium"
+            },
+            {
+              "name": "Hotel Swadesh Heritage",
+              "location": "Udupi",
+              "rating": "",
+              "price": 1803,
+              "type": "",
+              "coupon_code": "Fully refundable",
+              "img": "https://ak-d.tripcdn.com/images/0223n120008jmezsq00D4_R_640_440_R5_D.webp"
+            },
+            {
+              "name": "Summer Park Hotel",
+              "location": "Udupi",
+              "rating": "",
+              "price": 2399,
+              "type": "",
+              "coupon_code": "Fully refundable",
+              "img": "https://ak-d.tripcdn.com/images/0223v120008ack1ra44F5_R_202_350_R5.jpg"
+            },
+            {
+              "name": "Hotel Karthik Estate",
+              "location": "Udupi",
+              "rating": "",
+              "price": 3115,
+              "type": "",
+              "coupon_code": "Fully refundable",
+              "img": "http://images4.c-ctrip.com/target/0222d120008jmdcxkCE7D_R_600_400_R5_Q50.jpg"
+            }
+          ],
+          "sriharikota": [
+              {
+                "name": "ILARA HOTELS & SPA",
+                "location": "Tada, 20.49 km from Sriharikota",
+                "rating": "",
+                "price": 3600,
+                "type": "resort",
+                "img": "https://ilarahotels.com/wp-content/uploads/2023/06/ilara-banner-2.jpg"
+              },
+              {
+                "name": "PPH Living Bhimas",
+                "location": "Tada, 21.28 km from Sriharikota",
+                "rating": "Cancel for any reason",
+                "price": 2800,
+                "type": "hotel",
+                "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/294662114.jpg?k=336e23905822ce65fe3d04084f50fbd053dd6e535c8b18bd3cf4c80bc25a04b6&o=&hp=1"
+              },
+              {
+                "name": "Lakeview Residency",
+                "location": "Tada, 21.3 km from Sriharikota",
+                "rating": "4.0",
+                "price": 3100,
+                "type": "hotel",
+                "img": "https://pix10.agoda.net/hotelImages/19040400/-1/d8eb357557a90e42a683dd4fbc3b1143.jpg?ca=16&ce=1&s=414x232"
+              },
+              {
+                "name": "Senri By Yuhi",
+                "location": "Entire apartment, 22.16 km from Sriharikota",
+                "rating": "Cancel for any reason",
+                "price": 7500,
+                "type": "hotel",
+                "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/108111067.jpg?k=0b6edfbbe6e18417ae9a6bf63bb37e3641488e4ad4462131b9f310e4a8842e9a&o=&hp=1"
+              },
+              {
+                "name": "PPH Living KVR Residency",
+                "location": "22.4 km from Sriharikota",
+                "rating": "Cancel for any reason",
+                "price": 5040,
+                "type": "hotel",
+                "img": "https://q-xx.bstatic.com/xdata/images/hotel/max600/412738569.jpg?k=f0291be2c3d6c597cb6970e48be70a7cbdcd3133293aab0193f3e5fa5dfcc1d4&o="
+              },
+              {
+                "name": "Courtyard By Yuhi",
+                "location": "Entire apartment, 22.41 km from Sriharikota",
+                "rating": "Cancel for any reason",
+                "price": 7500,
+                "type": "hotel",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUA1jDricUzfeP9r9tt4yE600yfs_dKl0QnceMOQjrBgtAGYOYprnjyRZP32VoWarj0e0&usqp=CAU"
+              }
+          ],
+          "tirupati":[
+            {
+              "name": "Marasa Sarovar Premiere",
+              "location": "Tirupati",
+              "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_details_desktop/v1431951142/Domestic%20Hotels/Hotels_Tirupati/Marasa%20Sarovar%20Premiere/marasa-sarovar-premiere.jpg",
+              "ratings": "7.3",
+              "stars": "5 stars",
+              "reviews": "1,272 reviews",
+              "price": "₹4,100"
+          
+            },
+            {
+              "name": "Taj Tirupati",
+              "location": "Tirupati",
+              "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/fortune/hotels/fortuneselectgrandridge-tirupati/image/overview-landing-page/headmast/d/lobby.jpg",
+              "ratings": "8.4",
+              "stars": "5 stars",
+              "reviews": "934 reviews",
+              "price": "₹8,950"
+              
+            },
+            {
+              "name": "Pai Viceroy",
+              "location": "Tirupati",
+              "image": "https://res.cloudinary.com/simplotel/image/upload/w_5000,h_3333/x_0,y_260,w_5000,h_2813,r_0,c_crop/q_80,w_900,dpr_1,f_auto,fl_progressive,c_limit/hotel-pai-viceroy-jayanagar-bangalore/lobby-viceroy-jayanagar_prdxvk",
+              "ratings": "7.6",
+              "stars": "4 stars",
+              "reviews": "670 reviews",
+              "price": "₹4,399"
+          
+            },
+            {
+              "name": "Raj Park- Hill View",
+              "location": "Tirupati",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7gZ3JlzWot0swujW3Wv2MFi6xSwubefNqA&usqp=CAU",
+              "ratings": "6.9",
+              "stars": "3 stars",
+              "reviews": "477 reviews",
+              "price": "₹3,843"
+          
+            },
+            {
+              "name": "Durga Residency",
+              "location": "Tirupati",
+              "image": "https://teja12.kuikr.com/is/a/c/655x525/gallery_images/original/cf5e575bf6cc654.gif",
+              "ratings": "5.7",
+              "stars": "2 stars",
+              "reviews": "367 reviews",
+              "price": "₹790"
+          
+          
+            },
+            {
+              "name": "Hotel PLR Grand",
+              "location": "Tirupati",
+              "image": "https://www.hotelscombined.in/himg/6f/02/83/expediav2-627364-6b8691-316313.jpg",
+              "ratings": "6.3",
+              "stars": "3 stars",
+              "reviews": "303 reviews",
+              "price": "₹2,449"
+          
+            },
+            {
+              "name": "Itsy By Treebo - Riyas Grand",
+              "location": "Tirupati",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC2mVr9ihZwI7RnDVGksoslb0N5DWo3MhNLQ&usqp=CAU",
+              "ratings": "7.6",
+              "stars": "3 stars",
+              "reviews": "543 reviews",
+              "price": "₹2,314.49"
+          
+            },
+            {
+              "name": "Treebo Trend SLS Grand",
+              "location": "Tirupati",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN8d4HmqpREy_VnlTnHueEPJUOljLmqWa9l7vwZ8tXhyJghkXfWUE-w--axqpLjQCBJrc&usqp=CAU",
+              "ratings": "6.8",
+              "stars": "3 stars",
+              "reviews": "576 reviews",
+              "price": "₹2,335.50"
+          
+            },
+            {
+              "name": "KVP Inn",
+              "location": "Tirupati",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLP7SwkQ7Hc4jReoV9hRNk6g8Kp_uhsuZug&usqp=CAU",
+              "ratings": "6.9",
+              "stars": "2 stars",
+              "reviews": "369 reviews",
+              "price": "₹1,200"
+              
+            }
+          ],
+          "wayanad":[
+            {
+              "name": "Mountain Shadows",
+              "location": "Padinjarathara",
+              "rating": "Excellent4.8",
+              "price": "₹ 17,158",
+              "type": "Resort",
+              "image": "https://dy5f5j6i37p1a.cloudfront.net/company/sites/150257/benefits__hero-2.jpg",
+              "coupon_code": "TRIPBACKHOME"
+            },
+            {
+              "name": "CGH Earth - Wayanad Wild - Rainforest Lodge",
+              "location": "Kunnathidavaka",
+              "rating": "Excellent4.6",
+              "price": "₹ 14,606",
+              "type": "Resort",
+              "image": "https://www.travelandleisure.com/thmb/QONX7Ovws-5JgiGJr92OX3Iu8T8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/mashpi-lodge-RAINFRSTHOTEL0122-829d1175038041489e191521d3d727d7.jpg"
+            },
+            {
+              "name": "Vythiri Resort",
+              "location": "Kunnathidavaka",
+              "rating": "Excellent4.4",
+              "price": "₹ 12,733",
+              "type": "Resort",
+              "image": "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/2/2017/10/01191712/VythiriResorts3.jpg",
+              "coupon_code": "TRIPBACKHOME"
+            },
+            {
+              "name": "Screnity Wayanad",
+              "location": "Kottappadi part",
+              "rating": "Very Good3.9",
+              "price": "₹ 2,000",
+              "type": "Room In A Homestay",
+              "image": "https://r1imghtlak.mmtcdn.com/3e43ff7e5e7111ed88490a58a9feac02.jpg?&output-quality=75&downsize=328:180&crop=328:180;0,19&output-format=jpg"
+            },
+            {
+              "name": "Great Trails Wayanad by GRT Hotels",
+              "location": "Wayanad",
+              "rating": "Excellent4.7",
+              "price": "₹ 9,306",
+              "type": "Resort",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353702814.jpg?k=25d68ba043cd6744e233ac1b03bc4f37085866301b80f1e1dff036984c41e861&o=&hp=1"
+            },
+            {
+              "name": "Wayanad Hill Top Holiday Home | Rooms & Pool",
+              "location": "Sulthan Bathery Road",
+              "rating": "Very Good3.9",
+              "price": "₹ 3,103",
+              "type": "Room In A Homestay",
+              "image": "https://goreviews.goibibo.com/ugc1/t_usrp/wayanad-hill-top-holiday-home-wayanad-rahul-sholapurkar-1590484233538964.jpg"
+            },
+            {
+              "name": "Sterling Wayanad",
+              "location": "Kidanganad",
+              "rating": "Very Good4.2",
+              "price": "₹ 5,219",
+              "type": "Resort",
+              "image": "https://www.sterlingholidays.com/resorts/galleryslider/wayanad/sterling-wayanad-exterior.jpg"
+            },
+            {
+              "name": "FEZINN HOTEL",
+              "location": "In Calicut",
+              "rating": "Excellent4.3",
+              "price": "₹ 2,654",
+              "type": "Hotel",
+              "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310148987.jpg?k=752ed8fd30f6186ab456b023527eb5847377c29f9df665ed1e7b6f4da108c1b6&o=&hp=1"
+            },
+            {
+              "name": "Mist Wayanad",
+              "location": "Thalappuzha",
+              "rating": "Very Good4.1",
+              "price": "₹ 2,287",
+              "type": "Resort",
+              "image": "https://gos3.ibcdn.com/2d33ad98054511ea96e90242ac110005.png"
+            }
+            
+          ],
+          "tirupatiRestaurants": [
+            {
+              "name": "Hotel Mayura",
+              "image": "https://q-xx.bstatic.com/xdata/images/hotel/max500/275508825.jpg?k=4053f5beaa5e225f8ec0d1818be4c75c69f4f8a59c1986a028d787bccf1941ed&o=",
+              "cuisines": "Indian, Asian",
+              "specialDiets": "Vegetarian Friendly, Vegan Options",
+              "meals": "Dinner, Breakfast, Lunch",
+              "address": "No. 209, T.P. Area, Tirupati 517501 India",
+              "rating": "4.0",
+              "contact": "+91 877 222 592",
+              "website": "https://www.blisstirupati.com/"
+            },
+            {
+              "name": "Rainbow - Pure Vegetarian",
+              "image": "https://www.fortunehotels.in/hotel-image/gallery/thumb/201511261144.jpg",
+              "cuisines": "Italian, Chinese, Indian, Asian",
+              "specialDiets": "Vegetarian Friendly, Vegan Options, Gluten Free Options",
+              "meals": "Dinner, Breakfast, Lunch",
+              "address": "Shilparamam Tiruchanoor Road, Tirupati 517501 India",
+              "rating": "4.5",
+              "contact": "7942337773",
+              "website": "https://www.blisstirupati.com/"
+            },
+            {
+              "name": "Southern Spice Avilala Circle",
+              "image": "https://stayeatsee.s3.amazonaws.com/media/public/listing/full/0a603db663e5a5def0701c3135369c7a7fc53b90.large.webp",
+              "cuisines": "Diner",
+              "specialDiets": "Vegetarian Friendly, Vegan Options",
+              "meals": "Dinner, Breakfast, Lunch",
+              "address": "200 ft Bypass Road, Tirupati India",
+              "rating": "4.0",
+              "contact": "+91 70951 3333",
+              "website": "https://www.blisstirupati.com/"
+            },
+            {
+              "name": "Hotel Sindhuri Park",
+              "image": "https://foto.hrsstatic.com/fotos/0/2/1280/1280/100/FFFFFF/http%3A%2F%2Ffoto-origin.hrsstatic.com%2Ffoto%2F7%2F7%2F0%2F6%2F770673%2F770673_r_17671628.jpg/RMiP59Zc%2FLEDOrbdulK%2B2A%3D%3D/600%2C337/6/Sindhuri_Park-Tirupati-Restaurantbreakfast_room-770673.jpg",
+              "cuisines": "Indian, Asian",
+              "specialDiets": "Vegetarian Friendly, Vegan Options",
+              "meals": "Dinner, Breakfast, Lunch",
+              "address": "14-2, 118, 119, Koneti Katta St Mallaiah Gunta Katta, TP Area, Tirupati 517501 India",
+              "rating": "4.5",
+              "contact": "9642877773",
+              "website": "https://www.blisstirupati.com/"
+            }
+          ]
+
+  }

@@ -1,0 +1,21 @@
+.userprofile{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.profile-body {
+  background-color: #000000;
+  padding: 20px;
+  border-radius: 5px;
+  
+
+}
+
+.profile-body h1 {
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.profile-body p {
+  color: #ffffff;
+}

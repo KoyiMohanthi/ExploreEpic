@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+      *{
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+          font-family: "Poppins", sans-serif;
+      }
+      .wrapper_explore{
+        margin-top: 40vh;
+      }
+     
+      .outer{
+      display: flex;
+      background-color: gray;
+      align-items: center;
+      justify-content: center;
+      }
+      .card11{
+      background: #fff;
+      width: 1090px;
+      height: 280px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      /* border: 2px solid green; */
+      /* padding: 25px; */
+      opacity: 0;
+      pointer-events: none;
+      position: absolute;
+      justify-content: space-between;
+      border-radius: 135px 20px 20px 135px;
+      box-shadow: 10px 5px 5px 10px rgba(0,0,0,0.1);
+      animation: animate 15s linear infinite;
+      animation-delay: calc(3s * var(--delay));
+      }
+      .outer:hover .card11{
+      animation-play-state: paused;
+      }
+      .wrapper_explore .card11:last-child{
+      animation-delay: calc(-2s * var(--delay));
+      }
+      @keyframes animate {
+          0%{
+          opacity: 0;
+          transform: translateY(100%) scale(0.5);
+          }
+          5%, 20%{
+          opacity: 0.4;
+          transform: translateY(100%) scale(0.7);
+          }
+          25%, 40%{
+          opacity: 1;
+          pointer-events: auto;
+          transform: translateY(0%) scale(1);
+          }
+          45%, 60%{
+          opacity: 0.4;
+          transform: translateY(-100%) scale(0.7);
+          }
+          65%, 100%{
+          opacity: 0;
+          transform: translateY(-100%) scale(0.5);
+          }
+      }
+      .card11 .content{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      /* border: 2px solid red; */
+      margin-top: -14px;
+      }
+      .wrapper_explore .card11 .img{
+      height: 240px;
+      width: 240px;
+      position: absolute;
+      left: 15px;
+      background: #fff;
+      border-radius: 50%;
+      box-shadow: 0px 0px 5px rgba(0,0,0,0.2);
+      }
+      .card11 .img img{
+      height: 100%;
+      width: 100%;
+      border-radius: 50%;
+      object-fit: cover;
+      box-shadow: 5px 5px 5px 5px rgba(0,0,0,0.2);
+      }
+      .card11 .details{
+      margin-left: 250px;
+      }
+      .details span{
+      font-weight: 600;
+      font-size: 18px;
+      }
+      .card11 a{
+      text-decoration: none;
+      padding: 7px 18px;
+      border-radius: 25px;
+      color: #fff;
+      background: linear-gradient(#dd04b9 0%, #0616f3 100%);
+      transition: all 0.3s ease;
+      }
+      .card11 a:hover{
+      transform: scale(0.94);
+      }
+      .ppp{
+          color: black;
+          font-size: 20px;
+      }
+
+      .res_hotel{
+        margin-top: 1300px;
+          margin-bottom: -380vh;
+          display: flex;
+          flex-direction: row;
+          justify-content: space-evenly;
+          align-items: center; 
+          width: 1400px;
+      }
+      .res_hotel p{
+          font-size: 40px;
+      }
+
+      .res_hotel img{
+          width: 450px;
+          height: 450px;
+          border-radius: 50%;
+          border: 2px solid black;
+
+      }
+      .wrapper_explore a{
+        width: 140px;
+        margin-left: 10px;
+      }
+
+
+
+      .restaurant-container {
+        background-color: #ffffff;
+        border: 3px solid rgb(0, 0, 0);
+        border-radius: 30px;
+        margin: 20px;
+        padding: 20px;
+        width: 400px;
+        display: inline-block;
+        vertical-align: top;
+        transition: transform 1.3s;
+        color: black;
+    }
+
+    .restaurant-container:hover {
+        transform: scale(1.05);
+    }
+
+    .restaurant-image {
+        width: 100%;
+        height: 250px;
+        overflow: hidden;
+        border-radius: 20px;
+        position: relative;
+    }

@@ -1,0 +1,88 @@
+.body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: row;
+    margin-top: -6vh;
+    /* width: 100vw; */
+}
+.login_top{
+    display:flex;
+    flex-direction: column;        
+    align-items:center;
+    justify-content: center;
+    opacity: 0.9;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    background-color: rgba(64, 64, 64, 0.87);
+    /* border:2px solid black; */
+    width: 450px;
+    height: 500px;
+  
+    background-color: rgba(64, 64, 64, 0.87);
+    border-radius: 10%;
+}
+.login_top1{
+    display:flex;
+    flex-direction: column;        
+    align-items:center;
+    justify-content: center;
+    opacity: 0.9;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    background-color: rgba(64, 64, 64, 0.87);
+    /* border:2px solid black; */
+    width: 450px;
+    height: 540px;
+  
+    background-color: rgba(64, 64, 64, 0.87);
+    border-radius: 10%;
+}
+.login_form{
+    width: 450px;
+    height: 300px;
+
+    display:flex;
+    flex-direction: column;        
+    align-items: center;
+    justify-content: space-evenly;
+}
+.login_label{
+    font-size: large;
+    font-weight: bolder;
+}
+.login_f1{
+    display:flex;
+    flex-direction: row;        
+    align-items:center;
+    justify-content: space-evenly;
+    width: 380px;
+    
+}
+
+.login_h1{
+    margin-left: -180px;
+    margin-bottom: -5px;
+}
+.logo_body img{
+    height: 150px;
+    width:150px;
+    border-radius: 50%;
+    top:14vh;
+    right: 18px;
+    position: fixed;
+    
+}
+
+.link{
+    color: red;
+}
+ 
+
+
+input[type="checkbox"]{
+    color: red;
+    height: 26px;
+    width: 26px;
+}

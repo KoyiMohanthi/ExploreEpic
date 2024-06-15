@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif; /* Black background */
+    color: #fff; /* White text color */
+    margin: 0;
+    padding: 0;
+}
+
+
+.container_contact {
+    /* max-width: 600px; */
+    /* margin-top:-85vh; */
+    padding: 20px;
+    background-color: #000; /* Black container background */
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: space-evenly;
+    width: 100vw;
+    /* border: 2px solid rgb(8, 0, 255); */
+    height: 94vh;
+
+}
+.form{
+    /* border: 2px solid red; */
+    margin-top: -45vh;
+}
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+input[type="tel"],
+input[type="password"],
+textarea {
+    width: 690px;
+    padding: 10px;
+    border: 1px solid white; /* Red border */
+    border-radius: 4px;
+    margin-top: 5px; /* White text color */
+}
+
+textarea {
+    resize: vertical;
+}
+
+input[type="submit"] { /* Red background */
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+    color: black;
+    width: 150px;
+}
+
+input[type="submit"]:hover {
+    background-color: red; /* Darker red on hover */
+}

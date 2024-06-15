@@ -1,0 +1,267 @@
+ul.hotels-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Three columns per row */
+    grid-gap: 30px; /* Spacing between items */
+    list-style: none;
+    padding: 0;
+    justify-content: space-evenly; /* Space between columns */
+    align-items: center; /* Center-align the container */
+    max-width: 1200px; /* Limit the container width */
+  }
+
+  /* Style each hotel item (flex container) */
+  li.hotel {
+    background-color: #333; /* Dark background color */
+    border: 1px solid white; /* Dark border color */
+    border-radius: 30px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly; 
+    align-items: center; /* Center-align the contents */
+    min-height: 520px;
+    width: 400px;
+
+  }
+  @media (max-width: 500px) {
+    ul.hotels-container {
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Full width on smaller screens */
+    }
+  }
+
+  /* Text color for h1 element */
+  h1 {
+    color: white;
+    font-size: 18px;
+    margin: 20px 0;
+  }
+
+  /* Style for h2 element */
+  h3 {
+    color: red;
+    /* background-color: black; */
+    font-size: 27px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  /* Style for p elements */
+  p {
+    font-size: 18px;
+    text-align: center;
+  }
+
+  /* Style for images */
+  img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 30px;
+    border: 3px solid black;
+  }
+
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
+
+  .slide-container .prev,
+.slide-container .next {
+cursor: pointer;
+position: absolute;
+top: 50%;
+width: auto;
+/* margin-top: 22px; */
+padding: 16px;
+color: rgb(0, 0, 0);
+font-weight: bold;
+font-size: 20px;
+transition: all 0.6s ease;
+border-radius: 0 3px 3px 0;
+user-select: none;
+background-color: rgba(255, 255, 255, 0.651);
+
+}
+
+.slide-container .prev:hover,
+.slide-container .next:hover {
+background-color: rgb(0, 0, 0);
+color: rgb(4, 255, 0);
+}
+
+.slide-container .prev {
+left: 40px;
+
+
+}
+
+
+.slide-container .next {
+right: 40px;
+}
+
+.dots-container{
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 10px;
+
+}
+
+.dots-container .dot {
+cursor: pointer;
+margin: 5px;
+width: 20px;
+height: 20px;
+border: 2px solid rgb(0, 0, 0);
+border-radius: 50%;
+background-color: rgb(255, 255, 255);
+
+
+z-index: 100;
+}
+
+.dots-container .dot.active {
+border: 2px solid red;
+}
+
+* {
+padding: 0;
+border: 0;
+box-sizing: border-box;
+}
+
+.slide-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1700px;
+    margin: auto;
+    position: relative; /* Ensure relative positioning for absolute child elements */
+    height: 70vh;
+    width: 95vw;
+    margin-top: 7vh;
+    border-radius: 0px;
+  }
+  
+  .slide-container .slide {
+    display: none;
+    width: 100%;
+  }
+  
+
+  .slide-container .slide.active {
+    display: block; /* Show only the active slide */
+  }
+.slide-container .slide.fade {
+animation: fade 0.5s cubic-bezier(0.55, 0.085, 0.68, 0.53) both;
+}
+
+.slide-container .slide img {
+width: 100%;
+}
+
+.imgc11 {
+  height: 85vh;
+  width: 1700px;
+  border-radius: 0px 0px 30px 30px;
+  border: 2px solid white;
+
+
+}
+
+.slide h1{
+    position: absolute;
+    top:-50px;
+    left: 50px;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    /* color: black; */
+  }
+
+  
+.middle{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+  width: 95vw;
+  margin-bottom: 10vh;
+
+  /* border: 0px solid black; */
+  /* background-color: aqua; */
+  margin-top: 40vh;  
+  /* position: relative; */
+
+
+
+}
+
+.bottom_places1{
+box-shadow: 3px 0px 25px rgb(255, 255, 255),3px 0px 25px rgb(255, 255, 255);
+  /* top:800px; */
+  margin-top: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  border:0px;
+  margin-bottom: -30vh;
+  width: 90vw;
+  height: 245vh;
+  margin-left: 70px;
+}
+.whole{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* height: 500vh; */
+}
+.content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10vh;
+  /* border: 2px solid rgb(255, 255, 255); */
+  color: rgb(255, 255, 255);
+  height: 30vh;
+  width: 95vw;
+  border-radius: 10px;
+
+
+}
+.content_p{
+/* border: 2px solid rgb(255, 255, 255); */
+height: 30vh;
+  width: 95vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+ border-radius: 50%;
+ font-size: 25px;
+ padding: 10px 30px 10px 30px;
+
+}
+.place_name{
+  font-size: 40px;
+  font-family: Lucida Calligraphy;
+  font-weight: bolder;
+  color: rgb(255, 255, 255);
+}
+label {
+    display: inline-block;
+    width: 80px; /* Adjust the width according to your preference */
+    margin-right: 10px; /* Adjust the margin between label and value */
+  }
+  
+  /* Style for the paragraphs */
+  .hotels-container p {
+    display: inline-block;
+    margin: 0;
+    vertical-align: top;
+  }
+  .hotel p{
+    width: 400px;
+  }
